@@ -1,0 +1,19 @@
+{
+  "name": "node-nowplaying-startup-test",
+  "version": "0.0.1",
+  "author": "0i0 (Lior Leo Hakim)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0i0/node-nowplaying-startup-test"
+  },
+  "engines": {
+    "node": "=8.6.0",
+    "npm": "=5.3.0"
+  },
+  "dependencies": {
+    "nowplaying": ">=0.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  }
+}
