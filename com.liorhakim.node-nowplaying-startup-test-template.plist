@@ -12,6 +12,8 @@
     </array>
     <key>RunAtLoad</key>
   	<true/>
+    <key>UserName</key>
+    <string>user</string>
     <key>StandardErrorPath</key>
 	<string>/tmp/node-nowplaying-startup-test.err</string>
 	<key>StandardOutPath</key>
